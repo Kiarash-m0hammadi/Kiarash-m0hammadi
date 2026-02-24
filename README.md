@@ -1,69 +1,67 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Hi there, I'm Kiarash Mohammadi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <h3>AI Engineer | Full-Stack Developer | Lifelong Learner</h3>
-</div>
+# Hi there 👋, I'm Kiarash Mohammadi 
+
+**AI Researcher | Full-Stack Software Engineer | Urban Data Scientist**
+
+I am a 23-year-old multidisciplinary developer and researcher based in Qazvin, Iran. My journey started at age 12, self-teaching C# and Unity. Today, with a rigorous background in Mathematics and Physics (NODET/Sampad alumni) and nearing the completion of my degree in Urbanism at IKIU, I work at the intersection of **Deep Learning (LLMs, PEFT), highly scalable decoupled web architectures, and Spatial Data Science**. 
+
+I specialize in building production-grade software under severe constraints and conducting theoretical AI research aimed at solving complex, real-world problems.
 
 ---
 
-### 👨‍💻 About Me
+### 🔭 What I'm Currently Working On
 
-I'm a passionate and self-taught engineer who began my programming journey at age 12 with C# and Unity. Today, my focus is on building intelligent, end-to-end AI systems. I specialize in architecting, fine-tuning, and deploying solutions with **Large Language Models (LLMs)**, real-time audio processing (TTS/ASR), and high-performance backends.
+I am actively developing several deep-tech and full-stack projects (currently in private beta/security auditing before public release):
 
-I thrive on solving complex, real-world problems and am constantly exploring new technologies. I am particularly excited about the application of modern AI architectures to challenges in **Computer Vision** and **Autonomous Systems**.
-
-- 🔭 I’m currently working on fine-tuning Transformer models for custom NLP and audio tasks.
-- 🌱 I’m currently learning more about **Vision Transformers (ViT)** and model optimization for edge devices.
-- 📫 How to reach me: **kiarash7.mohammadi@gmail.com**
-- ⚡ Fun fact: My first "AI" projects were scripting NPC behaviors in a game engine!
+*   🏗️ **Framework:** A 100% self-hosted, bilingual digital publication platform built on a modern decoupled architecture (Next.js App Router, Strapi v5, PostgreSQL, Docker, MeiliSearch). *Currently undergoing rigorous security auditing and CVE patching prior to open-source release.*
+*   🧠 **IdeaFlow:** An "Argumentative Topography Engine" for academic literature. A cost-optimized polyglot pipeline utilizing Neo4j, Qdrant, and Redis, integrating GLiNER for zero-shot relation extraction to map intellectual conflict. *(Private Beta)*
+*   🔬 **Stratified DoRA (Research):** Developing and empirically validating a novel Parameter-Efficient Fine-Tuning (PEFT) operator designed to resolve catastrophic forgetting in LLMs by factorizing adaptation into conditionally independent controls.
+*   🏙️ **Urban Spatial Analytics:** Conducting thesis research on the "Geography of Silence and Noise" using NLP (LDA + NER) on municipal complaint data, and awaiting publication of *The Glass Box Planner* (a policy-as-code computational planning framework).
 
 ---
 
-### 🛠️ My Tech Stack
+### 🏆 Awards & Recognition
 
-#### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-#### Backend & Deployment
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-#### Frontend & Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+*   🥇 **Gold Medal, Star of United States, Silicon Valley (Innovation Week IWA, 2025):** Awarded for the invention of **"Simva"**, a state-of-the-art Persian AI-based voice synthesis system achieving breakthrough naturalness and intonation.
+*   🥇 **Gold Medal, E-NNOVATE International Innovation Summit (Krakow, Poland, 2025):** Awarded for **"CALLAI"**, an intelligent call center application utilizing AI to dramatically optimize response times and accuracy.
 
 ---
 
-### 📊 My GitHub Stats
+### 💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiarash-m0hammadi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiarash-m0hammadi&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+**AI & Machine Learning**
+`Python` `PyTorch` `TensorFlow` `Transformers (Hugging Face)` `Triton` `Hydra` `LLMs` `RAG` `NLP`
+
+**Backend & Data Engineering**
+`Node.js` `Go` `FastAPI` `C#` `PostgreSQL` `MongoDB` `Neo4j` `Qdrant` `Big Data Analytics`
+
+**Frontend & Mobile**
+`JavaScript` `React.js` `Next.js` `React Native` `Tailwind CSS` `Redux` `HTML5/CSS3`
+
+**Infrastructure & DevOps**
+`Docker` `Docker Compose` `Traefik` `MinIO` `MeiliSearch` `GitHub Actions (CI/CD)`
+
+**Domain Expertise**
+`Urban Analytics` `Spatial Data Science (GIS)` `Geostatistical Modeling` `Game Development (Unity)`
 
 ---
 
-### 📫 Connect with me
+### 📂 Early Projects & Portfolio
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kiarash7.mohammadi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+Before moving into complex AI architecture and backend orchestration, I honed my frontend and full-stack skills building responsive, user-centric web applications:
+
+*   🌐 **[Personal Portfolio](https://portfolio-five-gilt-36.vercel.app)**
+*   🌤️ **[Weather Tracker App](https://weather-app-kohl-kappa-57.vercel.app)**
+*   💬 **[Dynamic Quote Generator](https://quote-generator-eight-delta.vercel.app)**
+*   ⏱️ **[Custom Timer App](https://timer-app-seven-chi.vercel.app)**
+
+---
+
+### 📫 Let's Connect
+
+I am always open to discussing AI research, deep-tech infrastructure, open-source collaborations, and remote engineering opportunities. 
+
+*   **Email:** [Your Email Here]
+*   **LinkedIn:** [Your LinkedIn URL Here]
+*   **Location:** Qazvin, Iran
+
+> *"Building rigorous, independent, and lasting systems."*
