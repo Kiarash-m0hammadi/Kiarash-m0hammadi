@@ -60,8 +60,8 @@ Before moving into complex AI architecture and backend orchestration, I honed my
 
 I am always open to discussing AI research, deep-tech infrastructure, open-source collaborations, and remote engineering opportunities. 
 
-*   **Email:** [(kiarash7.mohammadi@gmail.com)](kiarash7.mohammadi@gmail.com)
-*   **LinkedIn:** [(https://www.linkedin.com/in/kiarash-mohammadi-679756342/)](https://www.linkedin.com/in/kiarash-mohammadi-679756342/)
+*   **Email:** [kiarash7.mohammadi@gmail.com](kiarash7.mohammadi@gmail.com)
+*   **LinkedIn:** [https://www.linkedin.com/in/kiarash-mohammadi-679756342/](https://www.linkedin.com/in/kiarash-mohammadi-679756342/)
 *   **Location:** Qazvin, Iran
 
 > *"Building rigorous, independent, and lasting systems."*
