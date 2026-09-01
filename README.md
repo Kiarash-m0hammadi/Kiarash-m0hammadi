@@ -1,67 +1,53 @@
 # Hi there 👋, I'm Kiarash Mohammadi 
 
-**AI Researcher | Full-Stack Software Engineer | Urban Data Scientist**
+**AI Researcher | Scientific Machine Learning (SciML) | Formal Verification (Lean 4)**
 
-I am a 23-year-old multidisciplinary developer and researcher based in Qazvin, Iran. My journey started at age 12, self-teaching C# and Unity. Today, with a rigorous background in Mathematics and Physics (NODET/Sampad alumni) and nearing the completion of my degree in Urbanism at IKIU, I work at the intersection of **Deep Learning (LLMs, PEFT), highly scalable decoupled web architectures, and Spatial Data Science**. 
+I operate at the intersection of deep learning theory, formal mathematics, and computational urbanism. My research focuses on resolving the "black box" paradox in AI by architecting mathematically rigorous, interpretable, and machine-verified neural networks. 
 
-I specialize in building production-grade software under severe constraints and conducting theoretical AI research aimed at solving complex, real-world problems.
+Rather than relying solely on empirical benchmarks, I utilize **Lean 4 and Mathlib** to formally verify optimization landscapes, gradient safety, and topological constraints in novel architectures.
 
 ---
 
-### 🔭 What I'm Currently Working On
+### 📜 Selected Preprints & Research
 
-I am actively developing several deep-tech and full-stack projects (currently in private beta/security auditing before public release):
+My current work spans interpretable function approximation, continuous-time sequence modeling, and forensic spatial analytics:
 
-*   🏗️ **Framework:** A 100% self-hosted, bilingual digital publication platform built on a modern decoupled architecture (Next.js App Router, Strapi v5, PostgreSQL, Docker, MeiliSearch). *Currently undergoing rigorous security auditing and CVE patching prior to open-source release.*
-*   🧠 **IdeaFlow:** An "Argumentative Topography Engine" for academic literature. A cost-optimized polyglot pipeline utilizing Neo4j, Qdrant, and Redis, integrating GLiNER for zero-shot relation extraction to map intellectual conflict. *(Private Beta)*
-*   🔬 **Stratified DoRA (Research):** Developing and empirically validating a novel Parameter-Efficient Fine-Tuning (PEFT) operator designed to resolve catastrophic forgetting in LLMs by factorizing adaptation into conditionally independent controls.
-*   🏙️ **Urban Spatial Analytics:** Conducting thesis research on the "Geography of Silence and Noise" using NLP (LDA + NER) on municipal complaint data, and awaiting publication of *The Glass Box Planner* (a policy-as-code computational planning framework).
+*   🧮 **[Dictionary-KAN (DKAN)](https://github.com/Kiarash-m0hammadi/dictionary-kan)**: Resolving the optimization paradox of Kolmogorov-Arnold Networks. Lifts topology into the complex plane (Complex RKHS), utilizes Discrete Hierarchical Refinement (DHR) for zero-forgetting growth, and features machine-verified proofs of strict convexity and normal equations in Lean 4.
+*   🌊 **Mamba-$\nabla$ (WIP)**: Resolving the "Mamba-3 Sparsity Paradox." Introduces the Polynomial Trapezoidal Rule for gradient-safe SSMs, Elastic State Partitioning (ESP) with Sinkhorn routing, and Asynchronous Latent Dreaming for closed-loop Model Predictive Control (MPC).
+*   🌌 **[Spectral Basis Interpretable Unit (SBIU)](https://github.com/Kiarash-m0hammadi/sbi-kan)**: A quantum-inspired, classically verified orthogonal projection module. Maps scalars to probability distributions over learned Fourier bases for unsupervised physiological regime discovery (EEG/ECG).
+*   🏙️ **[The Glass Box Planner](https://github.com/Kiarash-m0hammadi/glass-box-planner)**: A normative framework for Urban AI. Shifts municipal algorithms from opaque "Inductive Scouts" to "Deductive Forensic Audits," validated via a 102k+ record spatio-temporal audit using Mamba-2 SSMs and custom Persian NLP.
+
+---
+
+### 🔭 Current Focus & Tech Stack
+
+**Formal Methods & Mathematics**
+`Lean 4` `Mathlib` `Functional Analysis` `Complex Manifolds` `RKHS` `Lie Algebras (SO(d))`
+
+**Deep Learning & SciML**
+`PyTorch` `State-Space Models (Mamba)` `Kolmogorov-Arnold Networks` `Triton` `JAX` `ODE/PDE Discovery`
+
+**Spatial Data Science & NLP**
+`GeoPandas` `Spatial Econometrics` `Hazm (Persian NLP)` `LDA` `Zero-Inflated Poisson Forecasting`
+
+**Systems & MLOps**
+`Docker` `Next.js` `PostgreSQL` `Qdrant` `Neo4j` `Apache Parquet`
 
 ---
 
 ### 🏆 Awards & Recognition
 
-*   🥇 **Gold Medal, Star of United States, Silicon Valley (Innovation Week IWA, 2025):** Awarded for the invention of **"Simva"**, a state-of-the-art Persian AI-based voice synthesis system achieving breakthrough naturalness and intonation.
-*   🥇 **Gold Medal, E-NNOVATE International Innovation Summit (Krakow, Poland, 2025):** Awarded for **"CALLAI"**, an intelligent call center application utilizing AI to dramatically optimize response times and accuracy.
-
----
-
-### 💻 Tech Stack & Tools
-
-**AI & Machine Learning**
-`Python` `PyTorch` `TensorFlow` `Transformers (Hugging Face)` `Triton` `Hydra` `LLMs` `RAG` `NLP`
-
-**Backend & Data Engineering**
-`Node.js` `Go` `FastAPI` `C#` `PostgreSQL` `MongoDB` `Neo4j` `Qdrant` `Big Data Analytics`
-
-**Frontend & Mobile**
-`JavaScript` `React.js` `Next.js` `React Native` `Tailwind CSS` `Redux` `HTML5/CSS3`
-
-**Infrastructure & DevOps**
-`Docker` `Docker Compose` `Traefik` `MinIO` `MeiliSearch` `GitHub Actions (CI/CD)`
-
-**Domain Expertise**
-`Urban Analytics` `Spatial Data Science (GIS)` `Geostatistical Modeling` `Game Development (Unity)`
-
----
-
-### 📂 Early Projects & Portfolio
-
-Before moving into complex AI architecture and backend orchestration, I honed my frontend and full-stack skills building responsive, user-centric web applications:
-
-*   🌐 **[Personal Portfolio](https://portfolio-five-gilt-36.vercel.app)**
-*   🌤️ **[Weather Tracker App](https://weather-app-kohl-kappa-57.vercel.app)**
-*   💬 **[Dynamic Quote Generator](https://quote-generator-eight-delta.vercel.app)**
-*   ⏱️ **[Custom Timer App](https://timer-app-seven-chi.vercel.app)**
+*   🥇 **Gold Medal, Star of United States, Silicon Valley (IWA 2025):** For *Simva*, a low-resource, state-of-the-art Persian AI voice synthesis architecture.
+*   🥇 **Gold Medal, E-NNOVATE International Innovation Summit (2025):** For *CALLAI*, an NLP-driven CRM tool optimizing civilian customer service workflows.
 
 ---
 
 ### 📫 Let's Connect
 
-I am always open to discussing AI research, deep-tech infrastructure, open-source collaborations, and remote engineering opportunities. 
+I am actively seeking research fellowships, deep-tech R&D roles, or PhD opportunities with teams pushing the boundaries of SciML, formal methods in AI, and algorithmic accountability.
 
-*   **Email:** [kiarash7.mohammadi@gmail.com](kiarash7.mohammadi@gmail.com)
-*   **LinkedIn:** [https://www.linkedin.com/in/kiarash-mohammadi-679756342/](https://www.linkedin.com/in/kiarash-mohammadi-679756342/)
-*   **Location:** Qazvin, Iran
+*   **Email:** [kiarash7.mohammadi@gmail.com](mailto:kiarash7.mohammadi@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/kiarash-mohammadi](https://www.linkedin.com/in/kiarash-mohammadi-679756342/)
+*   **ORCID:** [0009-0001-8760-977X](https://orcid.org/0009-0001-8760-977X)
 
-> *"Building rigorous, independent, and lasting systems."*
+> *"I don't just train models; I formally verify their loss landscapes."*
